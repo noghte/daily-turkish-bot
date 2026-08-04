@@ -1,0 +1,461 @@
+[
+{"verb": "olmak", "en": "to be, to become, to happen", "examples": [
+  {"tr": "Doktor olmak istiyorum.", "en": "I want to become a doctor."},
+  {"tr": "Dün ne oldu?", "en": "What happened yesterday?"}]},
+{"verb": "yapmak", "en": "to do, to make", "examples": [
+  {"tr": "Bugün ne yapıyorsun?", "en": "What are you doing today?"},
+  {"tr": "Akşam yemek yapacağım.", "en": "I will cook dinner tonight."}]},
+{"verb": "etmek", "en": "to do (auxiliary verb)", "examples": [
+  {"tr": "Teşekkür ederim.", "en": "Thank you. (lit. I thank you.)"},
+  {"tr": "Bu telefon bin lira ediyor.", "en": "This phone costs a thousand liras."}]},
+{"verb": "demek", "en": "to say, to mean", "examples": [
+  {"tr": "Ne dedin?", "en": "What did you say?"},
+  {"tr": "Bu kelime ne demek?", "en": "What does this word mean?"}]},
+{"verb": "gelmek", "en": "to come", "examples": [
+  {"tr": "Otobüs geliyor.", "en": "The bus is coming."},
+  {"tr": "Yarın bize gelir misin?", "en": "Will you come to our place tomorrow?"}]},
+{"verb": "gitmek", "en": "to go", "examples": [
+  {"tr": "Her gün okula gidiyorum.", "en": "I go to school every day."},
+  {"tr": "Yazın İstanbul'a gideceğiz.", "en": "We will go to Istanbul in the summer."}]},
+{"verb": "almak", "en": "to take, to buy, to get", "examples": [
+  {"tr": "Marketten ekmek aldım.", "en": "I bought bread from the market."},
+  {"tr": "Bu çantayı alacağım.", "en": "I will buy this bag."}]},
+{"verb": "vermek", "en": "to give", "examples": [
+  {"tr": "Bana kalemini verir misin?", "en": "Will you give me your pen?"},
+  {"tr": "Öğretmen bize ödev verdi.", "en": "The teacher gave us homework."}]},
+{"verb": "istemek", "en": "to want", "examples": [
+  {"tr": "Bir bardak su istiyorum.", "en": "I want a glass of water."},
+  {"tr": "Ne istiyorsun?", "en": "What do you want?"}]},
+{"verb": "bilmek", "en": "to know", "examples": [
+  {"tr": "Cevabı bilmiyorum.", "en": "I don't know the answer."},
+  {"tr": "O çok iyi Türkçe biliyor.", "en": "He/she knows Turkish very well."}]},
+{"verb": "görmek", "en": "to see", "examples": [
+  {"tr": "Seni dün parkta gördüm.", "en": "I saw you at the park yesterday."},
+  {"tr": "Denizi görüyor musun?", "en": "Do you see the sea?"}]},
+{"verb": "bulmak", "en": "to find", "examples": [
+  {"tr": "Yeni bir iş buldum.", "en": "I found a new job."},
+  {"tr": "Sonunda evi bulduk.", "en": "We finally found the house."}]},
+{"verb": "kalmak", "en": "to stay, to remain", "examples": [
+  {"tr": "Bu gece otelde kalacağız.", "en": "We will stay at a hotel tonight."},
+  {"tr": "Evde ne kadar süt kaldı?", "en": "How much milk is left at home?"}]},
+{"verb": "anlamak", "en": "to understand", "examples": [
+  {"tr": "Seni anlıyorum.", "en": "I understand you."},
+  {"tr": "Bu soruyu anlamadım.", "en": "I didn't understand this question."}]},
+{"verb": "konuşmak", "en": "to speak, to talk", "examples": [
+  {"tr": "Biraz Türkçe konuşuyorum.", "en": "I speak a little Turkish."},
+  {"tr": "Yarın müdürle konuşacağım.", "en": "I will talk with the manager tomorrow."}]},
+{"verb": "sevmek", "en": "to love, to like", "examples": [
+  {"tr": "Kahveyi çok seviyorum.", "en": "I love coffee very much."},
+  {"tr": "Annem çiçekleri sever.", "en": "My mother likes flowers."}]},
+{"verb": "başlamak", "en": "to begin, to start", "examples": [
+  {"tr": "Film saat sekizde başlıyor.", "en": "The movie starts at eight o'clock."},
+  {"tr": "Yeni işe pazartesi başladım.", "en": "I started the new job on Monday."}]},
+{"verb": "bitirmek", "en": "to finish (something)", "examples": [
+  {"tr": "Ödevimi bitirdim.", "en": "I finished my homework."},
+  {"tr": "Kitabı bu hafta bitireceğim.", "en": "I will finish the book this week."}]},
+{"verb": "çalışmak", "en": "to work, to study", "examples": [
+  {"tr": "Babam bir bankada çalışıyor.", "en": "My father works at a bank."},
+  {"tr": "Sınav için çok çalıştım.", "en": "I studied hard for the exam."}]},
+{"verb": "düşünmek", "en": "to think", "examples": [
+  {"tr": "Ne düşünüyorsun?", "en": "What are you thinking?"},
+  {"tr": "Tatile gitmeyi düşünüyoruz.", "en": "We are thinking of going on vacation."}]},
+{"verb": "yemek", "en": "to eat", "examples": [
+  {"tr": "Kahvaltıda peynir ve zeytin yiyorum.", "en": "I eat cheese and olives for breakfast."},
+  {"tr": "Dün akşam balık yedik.", "en": "We ate fish last night."}]},
+{"verb": "içmek", "en": "to drink", "examples": [
+  {"tr": "Her sabah çay içerim.", "en": "I drink tea every morning."},
+  {"tr": "Su içmek istiyor musun?", "en": "Do you want to drink water?"}]},
+{"verb": "bakmak", "en": "to look (at), to take care of", "examples": [
+  {"tr": "Pencereden dışarı bakıyor.", "en": "He/she is looking out the window."},
+  {"tr": "Bana bak!", "en": "Look at me!"}]},
+{"verb": "duymak", "en": "to hear", "examples": [
+  {"tr": "Beni duyuyor musun?", "en": "Do you hear me?"},
+  {"tr": "Bu şarkıyı radyoda duydum.", "en": "I heard this song on the radio."}]},
+{"verb": "dinlemek", "en": "to listen (to)", "examples": [
+  {"tr": "Müzik dinlemeyi seviyorum.", "en": "I like listening to music."},
+  {"tr": "Öğretmeni dikkatle dinleyin.", "en": "Listen to the teacher carefully."}]},
+{"verb": "okumak", "en": "to read, to study (at school)", "examples": [
+  {"tr": "Her akşam kitap okurum.", "en": "I read a book every evening."},
+  {"tr": "Bu haberi okudun mu?", "en": "Did you read this news?"}]},
+{"verb": "yazmak", "en": "to write", "examples": [
+  {"tr": "Sana bir mektup yazacağım.", "en": "I will write you a letter."},
+  {"tr": "Adını buraya yaz.", "en": "Write your name here."}]},
+{"verb": "söylemek", "en": "to say, to tell, to sing", "examples": [
+  {"tr": "Bana doğruyu söyle.", "en": "Tell me the truth."},
+  {"tr": "O çok güzel şarkı söylüyor.", "en": "He/she sings very beautifully."}]},
+{"verb": "sormak", "en": "to ask", "examples": [
+  {"tr": "Bir soru sorabilir miyim?", "en": "May I ask a question?"},
+  {"tr": "Öğretmene sordum.", "en": "I asked the teacher."}]},
+{"verb": "beklemek", "en": "to wait (for), to expect", "examples": [
+  {"tr": "Otobüs durağında bekliyorum.", "en": "I am waiting at the bus stop."},
+  {"tr": "Beni bekle!", "en": "Wait for me!"}]},
+{"verb": "gülmek", "en": "to laugh", "examples": [
+  {"tr": "Çocuklar çok gülüyor.", "en": "The children are laughing a lot."},
+  {"tr": "Bu fıkraya çok güldük.", "en": "We laughed a lot at this joke."}]},
+{"verb": "ağlamak", "en": "to cry", "examples": [
+  {"tr": "Bebek ağlıyor.", "en": "The baby is crying."},
+  {"tr": "Film çok üzücüydü, ağladım.", "en": "The movie was very sad; I cried."}]},
+{"verb": "koşmak", "en": "to run", "examples": [
+  {"tr": "Her sabah parkta koşarım.", "en": "I run in the park every morning."},
+  {"tr": "Otobüse yetişmek için koştuk.", "en": "We ran to catch the bus."}]},
+{"verb": "yürümek", "en": "to walk", "examples": [
+  {"tr": "İşe yürüyerek gidiyorum.", "en": "I walk to work."},
+  {"tr": "Sahilde yürümek çok güzel.", "en": "Walking on the beach is very nice."}]},
+{"verb": "oturmak", "en": "to sit, to live (reside)", "examples": [
+  {"tr": "Lütfen oturun.", "en": "Please sit down."},
+  {"tr": "Ankara'da oturuyoruz.", "en": "We live in Ankara."}]},
+{"verb": "kalkmak", "en": "to get up, to depart", "examples": [
+  {"tr": "Her sabah altıda kalkarım.", "en": "I get up at six every morning."},
+  {"tr": "Tren saat kaçta kalkıyor?", "en": "What time does the train leave?"}]},
+{"verb": "uyumak", "en": "to sleep", "examples": [
+  {"tr": "Bebek şimdi uyuyor.", "en": "The baby is sleeping now."},
+  {"tr": "Dün gece çok geç uyudum.", "en": "I went to sleep very late last night."}]},
+{"verb": "uyanmak", "en": "to wake up", "examples": [
+  {"tr": "Bu sabah erken uyandım.", "en": "I woke up early this morning."},
+  {"tr": "Genellikle yedide uyanırım.", "en": "I usually wake up at seven."}]},
+{"verb": "açmak", "en": "to open, to turn on", "examples": [
+  {"tr": "Pencereyi açar mısın?", "en": "Would you open the window?"},
+  {"tr": "Kapıyı anahtarla açtım.", "en": "I opened the door with the key."}]},
+{"verb": "kapatmak", "en": "to close, to turn off", "examples": [
+  {"tr": "Kapıyı kapat, lütfen.", "en": "Close the door, please."},
+  {"tr": "Televizyonu kapattım.", "en": "I turned off the TV."}]},
+{"verb": "kullanmak", "en": "to use", "examples": [
+  {"tr": "Araba kullanmayı biliyor musun?", "en": "Do you know how to drive a car?"},
+  {"tr": "Bilgisayarımı her gün kullanıyorum.", "en": "I use my computer every day."}]},
+{"verb": "denemek", "en": "to try, to try on", "examples": [
+  {"tr": "Bu elbiseyi deneyebilir miyim?", "en": "Can I try on this dress?"},
+  {"tr": "Bir kez daha deneyeceğim.", "en": "I will try once more."}]},
+{"verb": "öğrenmek", "en": "to learn", "examples": [
+  {"tr": "Türkçe öğreniyorum.", "en": "I am learning Turkish."},
+  {"tr": "Yüzmeyi geçen yaz öğrendim.", "en": "I learned to swim last summer."}]},
+{"verb": "öğretmek", "en": "to teach", "examples": [
+  {"tr": "Annem bana yemek yapmayı öğretti.", "en": "My mother taught me how to cook."},
+  {"tr": "Bu okulda İngilizce öğretiyor.", "en": "He/she teaches English at this school."}]},
+{"verb": "unutmak", "en": "to forget", "examples": [
+  {"tr": "Şemsiyemi evde unuttum.", "en": "I forgot my umbrella at home."},
+  {"tr": "Beni unutma!", "en": "Don't forget me!"}]},
+{"verb": "hatırlamak", "en": "to remember", "examples": [
+  {"tr": "O günü çok iyi hatırlıyorum.", "en": "I remember that day very well."},
+  {"tr": "Adını hatırlamıyorum.", "en": "I don't remember his/her name."}]},
+{"verb": "yardım etmek", "en": "to help", "examples": [
+  {"tr": "Bana yardım eder misin?", "en": "Will you help me?"},
+  {"tr": "Annesine her gün yardım ediyor.", "en": "He/she helps his/her mother every day."}]},
+{"verb": "tanımak", "en": "to know (a person), to recognize", "examples": [
+  {"tr": "Bu adamı tanıyor musun?", "en": "Do you know this man?"},
+  {"tr": "Onu çocukluktan beri tanırım.", "en": "I have known him/her since childhood."}]},
+{"verb": "tanışmak", "en": "to meet (for the first time)", "examples": [
+  {"tr": "Sizinle tanıştığıma memnun oldum.", "en": "Nice to meet you."},
+  {"tr": "Üniversitede tanıştık.", "en": "We met at university."}]},
+{"verb": "buluşmak", "en": "to meet up (with someone)", "examples": [
+  {"tr": "Yarın kafede buluşalım mı?", "en": "Shall we meet at the café tomorrow?"},
+  {"tr": "Arkadaşlarımla parkta buluştum.", "en": "I met my friends at the park."}]},
+{"verb": "görüşmek", "en": "to see one another, to meet", "examples": [
+  {"tr": "Yarın görüşürüz!", "en": "See you tomorrow!"},
+  {"tr": "Doktorla saat üçte görüşeceğim.", "en": "I will meet with the doctor at three."}]},
+{"verb": "aramak", "en": "to call (phone), to look for", "examples": [
+  {"tr": "Seni akşam ararım.", "en": "I'll call you in the evening."},
+  {"tr": "Anahtarlarımı arıyorum.", "en": "I am looking for my keys."}]},
+{"verb": "göndermek", "en": "to send", "examples": [
+  {"tr": "Sana bir fotoğraf gönderdim.", "en": "I sent you a photo."},
+  {"tr": "Mektubu yarın göndereceğim.", "en": "I will send the letter tomorrow."}]},
+{"verb": "getirmek", "en": "to bring", "examples": [
+  {"tr": "Bize bir menü getirir misiniz?", "en": "Would you bring us a menu?"},
+  {"tr": "Sana hediye getirdim.", "en": "I brought you a present."}]},
+{"verb": "götürmek", "en": "to take (somewhere)", "examples": [
+  {"tr": "Çocukları okula götürüyorum.", "en": "I am taking the children to school."},
+  {"tr": "Bu kutuyu arabaya götür.", "en": "Take this box to the car."}]},
+{"verb": "taşımak", "en": "to carry", "examples": [
+  {"tr": "Bu çanta çok ağır, taşıyamıyorum.", "en": "This bag is very heavy; I can't carry it."},
+  {"tr": "Valizleri yukarı taşıdık.", "en": "We carried the suitcases upstairs."}]},
+{"verb": "taşınmak", "en": "to move (house)", "examples": [
+  {"tr": "Gelecek ay yeni bir eve taşınıyoruz.", "en": "We are moving to a new house next month."},
+  {"tr": "İzmir'e taşındılar.", "en": "They moved to Izmir."}]},
+{"verb": "girmek", "en": "to enter", "examples": [
+  {"tr": "İçeri girebilir miyim?", "en": "May I come in?"},
+  {"tr": "Odaya sessizce girdi.", "en": "He/she entered the room quietly."}]},
+{"verb": "çıkmak", "en": "to go out, to exit", "examples": [
+  {"tr": "Evden saat sekizde çıkıyorum.", "en": "I leave the house at eight o'clock."},
+  {"tr": "Bu akşam dışarı çıkacak mısın?", "en": "Will you go out tonight?"}]},
+{"verb": "dönmek", "en": "to return, to turn", "examples": [
+  {"tr": "Eve geç döndüm.", "en": "I returned home late."},
+  {"tr": "Sağa dön.", "en": "Turn right."}]},
+{"verb": "geçmek", "en": "to pass", "examples": [
+  {"tr": "Zaman çok hızlı geçiyor.", "en": "Time passes very quickly."},
+  {"tr": "Sınavı geçtim!", "en": "I passed the exam!"}]},
+{"verb": "durmak", "en": "to stop, to stand", "examples": [
+  {"tr": "Otobüs burada durmuyor.", "en": "The bus doesn't stop here."},
+  {"tr": "Dur! Araba geliyor.", "en": "Stop! A car is coming."}]},
+{"verb": "atmak", "en": "to throw", "examples": [
+  {"tr": "Topu bana at.", "en": "Throw the ball to me."},
+  {"tr": "Eski gazeteleri çöpe attım.", "en": "I threw the old newspapers in the trash."}]},
+{"verb": "tutmak", "en": "to hold, to catch", "examples": [
+  {"tr": "Elimi tut.", "en": "Hold my hand."},
+  {"tr": "Balık tutmayı severim.", "en": "I like fishing."}]},
+{"verb": "bırakmak", "en": "to leave, to quit", "examples": [
+  {"tr": "Sigarayı bıraktım.", "en": "I quit smoking."},
+  {"tr": "Çantanı burada bırakabilirsin.", "en": "You can leave your bag here."}]},
+{"verb": "koymak", "en": "to put", "examples": [
+  {"tr": "Kitapları masaya koydum.", "en": "I put the books on the table."},
+  {"tr": "Çayıma şeker koymuyorum.", "en": "I don't put sugar in my tea."}]},
+{"verb": "çekmek", "en": "to pull, to take (a photo)", "examples": [
+  {"tr": "Kapıyı çek, itme.", "en": "Pull the door, don't push."},
+  {"tr": "Tatilde çok fotoğraf çektik.", "en": "We took a lot of photos on vacation."}]},
+{"verb": "itmek", "en": "to push", "examples": [
+  {"tr": "Kapıyı it, lütfen.", "en": "Push the door, please."},
+  {"tr": "Arabayı birlikte ittik.", "en": "We pushed the car together."}]},
+{"verb": "vurmak", "en": "to hit, to knock", "examples": [
+  {"tr": "Kapıya biri vuruyor.", "en": "Someone is knocking on the door."},
+  {"tr": "Ayağımı masaya vurdum.", "en": "I hit my foot on the table."}]},
+{"verb": "kırmak", "en": "to break", "examples": [
+  {"tr": "Bardağı kırdım, özür dilerim.", "en": "I broke the glass; I'm sorry."},
+  {"tr": "Dalları kırma!", "en": "Don't break the branches!"}]},
+{"verb": "bozmak", "en": "to break, to spoil", "examples": [
+  {"tr": "Kardeşim oyuncağı bozdu.", "en": "My brother broke the toy."},
+  {"tr": "Bu haber moralimi bozdu.", "en": "This news spoiled my mood."}]},
+{"verb": "temizlemek", "en": "to clean", "examples": [
+  {"tr": "Hafta sonu evi temizleyeceğim.", "en": "I will clean the house on the weekend."},
+  {"tr": "Masayı temizler misin?", "en": "Would you clean the table?"}]},
+{"verb": "yıkamak", "en": "to wash", "examples": [
+  {"tr": "Ellerini yıka.", "en": "Wash your hands."},
+  {"tr": "Arabayı dün yıkadım.", "en": "I washed the car yesterday."}]},
+{"verb": "pişirmek", "en": "to cook", "examples": [
+  {"tr": "Annem çok güzel yemek pişiriyor.", "en": "My mother cooks very well."},
+  {"tr": "Akşam için makarna pişireceğim.", "en": "I will cook pasta for dinner."}]},
+{"verb": "kesmek", "en": "to cut", "examples": [
+  {"tr": "Ekmeği bıçakla kestim.", "en": "I cut the bread with a knife."},
+  {"tr": "Kâğıdı makasla kes.", "en": "Cut the paper with scissors."}]},
+{"verb": "satmak", "en": "to sell", "examples": [
+  {"tr": "Arabamı satmak istiyorum.", "en": "I want to sell my car."},
+  {"tr": "Bu dükkân taze meyve satıyor.", "en": "This shop sells fresh fruit."}]},
+{"verb": "ödemek", "en": "to pay", "examples": [
+  {"tr": "Hesabı ben ödeyeceğim.", "en": "I will pay the bill."},
+  {"tr": "Kirayı her ayın başında öderim.", "en": "I pay the rent at the beginning of every month."}]},
+{"verb": "kazanmak", "en": "to win, to earn", "examples": [
+  {"tr": "Takımımız maçı kazandı.", "en": "Our team won the match."},
+  {"tr": "O çok para kazanıyor.", "en": "He/she earns a lot of money."}]},
+{"verb": "kaybetmek", "en": "to lose", "examples": [
+  {"tr": "Cüzdanımı kaybettim.", "en": "I lost my wallet."},
+  {"tr": "Maçı kaybettik ama üzgün değiliz.", "en": "We lost the match, but we're not sad."}]},
+{"verb": "seçmek", "en": "to choose", "examples": [
+  {"tr": "Hangi rengi seçtin?", "en": "Which color did you choose?"},
+  {"tr": "Menüden bir yemek seç.", "en": "Choose a dish from the menu."}]},
+{"verb": "değiştirmek", "en": "to change (something), to exchange", "examples": [
+  {"tr": "Planlarımızı değiştirdik.", "en": "We changed our plans."},
+  {"tr": "Bu gömleği değiştirmek istiyorum.", "en": "I want to exchange this shirt."}]},
+{"verb": "değişmek", "en": "to change (by itself)", "examples": [
+  {"tr": "Hava birden değişti.", "en": "The weather changed suddenly."},
+  {"tr": "Şehir çok değişiyor.", "en": "The city is changing a lot."}]},
+{"verb": "giymek", "en": "to wear, to put on", "examples": [
+  {"tr": "Bugün ne giyeceksin?", "en": "What will you wear today?"},
+  {"tr": "Kışın kalın mont giyerim.", "en": "I wear a thick coat in winter."}]},
+{"verb": "çıkarmak", "en": "to take off, to remove", "examples": [
+  {"tr": "Ayakkabılarını kapıda çıkar.", "en": "Take off your shoes at the door."},
+  {"tr": "Ceketimi çıkardım.", "en": "I took off my jacket."}]},
+{"verb": "yüzmek", "en": "to swim", "examples": [
+  {"tr": "Yazın denizde yüzeriz.", "en": "In summer we swim in the sea."},
+  {"tr": "Kardeşim çok iyi yüzüyor.", "en": "My sibling swims very well."}]},
+{"verb": "uçmak", "en": "to fly", "examples": [
+  {"tr": "Kuşlar güneye uçuyor.", "en": "The birds are flying south."},
+  {"tr": "Yarın İstanbul'a uçacağım.", "en": "I am flying to Istanbul tomorrow."}]},
+{"verb": "sürmek", "en": "to drive, to last", "examples": [
+  {"tr": "Babam kamyon sürüyor.", "en": "My father drives a truck."},
+  {"tr": "Yolculuk üç saat sürdü.", "en": "The journey took three hours."}]},
+{"verb": "binmek", "en": "to get on, to ride", "examples": [
+  {"tr": "Otobüse bindim.", "en": "I got on the bus."},
+  {"tr": "Ata binmek ister misin?", "en": "Do you want to ride a horse?"}]},
+{"verb": "inmek", "en": "to get off, to go down", "examples": [
+  {"tr": "Bir sonraki durakta ineceğim.", "en": "I will get off at the next stop."},
+  {"tr": "Merdivenlerden yavaş in.", "en": "Go down the stairs slowly."}]},
+{"verb": "gezmek", "en": "to stroll, to tour, to travel around", "examples": [
+  {"tr": "Hafta sonu şehri gezdik.", "en": "We toured the city on the weekend."},
+  {"tr": "Müzeyi gezmek iki saat sürüyor.", "en": "Touring the museum takes two hours."}]},
+{"verb": "ziyaret etmek", "en": "to visit", "examples": [
+  {"tr": "Yarın büyükannemi ziyaret edeceğim.", "en": "I will visit my grandmother tomorrow."},
+  {"tr": "Geçen yıl Kapadokya'yı ziyaret ettik.", "en": "We visited Cappadocia last year."}]},
+{"verb": "yaşamak", "en": "to live", "examples": [
+  {"tr": "İstanbul'da yaşıyorum.", "en": "I live in Istanbul."},
+  {"tr": "Büyükbabam doksan yıl yaşadı.", "en": "My grandfather lived ninety years."}]},
+{"verb": "ölmek", "en": "to die", "examples": [
+  {"tr": "Balık susuz ölür.", "en": "A fish dies without water."},
+  {"tr": "Bu bitki güneşsiz ölüyor.", "en": "This plant is dying without sunlight."}]},
+{"verb": "doğmak", "en": "to be born, to rise (sun)", "examples": [
+  {"tr": "1990'da doğdum.", "en": "I was born in 1990."},
+  {"tr": "Güneş doğudan doğar.", "en": "The sun rises in the east."}]},
+{"verb": "büyümek", "en": "to grow, to grow up", "examples": [
+  {"tr": "Çocuklar çok hızlı büyüyor.", "en": "Children grow very fast."},
+  {"tr": "Ben küçük bir köyde büyüdüm.", "en": "I grew up in a small village."}]},
+{"verb": "evlenmek", "en": "to get married", "examples": [
+  {"tr": "Gelecek yıl evleniyoruz.", "en": "We are getting married next year."},
+  {"tr": "Ne zaman evlendiniz?", "en": "When did you get married?"}]},
+{"verb": "hoşlanmak", "en": "to like, to enjoy (with -den/-dan)", "examples": [
+  {"tr": "Klasik müzikten hoşlanırım.", "en": "I like classical music."},
+  {"tr": "Bu filmden hoşlanmadım.", "en": "I didn't like this movie."}]},
+{"verb": "nefret etmek", "en": "to hate (with -den/-dan)", "examples": [
+  {"tr": "Trafikten nefret ediyorum.", "en": "I hate traffic."},
+  {"tr": "Yalandan nefret eder.", "en": "He/she hates lies."}]},
+{"verb": "korkmak", "en": "to be afraid (of; with -den/-dan)", "examples": [
+  {"tr": "Köpeklerden korkuyor musun?", "en": "Are you afraid of dogs?"},
+  {"tr": "Karanlıktan korkmam.", "en": "I'm not afraid of the dark."}]},
+{"verb": "merak etmek", "en": "to wonder, to be curious, to worry", "examples": [
+  {"tr": "Sonucu çok merak ediyorum.", "en": "I'm very curious about the result."},
+  {"tr": "Merak etme, her şey yolunda.", "en": "Don't worry, everything is fine."}]},
+{"verb": "şaşırmak", "en": "to be surprised", "examples": [
+  {"tr": "Haberi duyunca çok şaşırdım.", "en": "I was very surprised when I heard the news."},
+  {"tr": "Fiyatlara şaşırıyorum.", "en": "I'm surprised at the prices."}]},
+{"verb": "kızmak", "en": "to get angry (at; with -e/-a)", "examples": [
+  {"tr": "Bana kızma, lütfen.", "en": "Please don't be angry with me."},
+  {"tr": "Öğretmen gürültüye kızdı.", "en": "The teacher got angry at the noise."}]},
+{"verb": "üzülmek", "en": "to be sad, to be sorry", "examples": [
+  {"tr": "Bu habere çok üzüldüm.", "en": "I was very sad about this news."},
+  {"tr": "Üzülme, yarın daha iyi olacak.", "en": "Don't be sad; tomorrow will be better."}]},
+{"verb": "sevinmek", "en": "to be glad, to rejoice", "examples": [
+  {"tr": "Hediyeye çok sevindim.", "en": "I was very happy about the gift."},
+  {"tr": "Seni görünce sevindi.", "en": "He/she was glad to see you."}]},
+{"verb": "gülümsemek", "en": "to smile", "examples": [
+  {"tr": "Fotoğraf için gülümse!", "en": "Smile for the photo!"},
+  {"tr": "Bana gülümsedi.", "en": "He/she smiled at me."}]},
+{"verb": "bağırmak", "en": "to shout", "examples": [
+  {"tr": "Lütfen bağırma, seni duyuyorum.", "en": "Please don't shout; I can hear you."},
+  {"tr": "Çocuklar bahçede bağırıyor.", "en": "The children are shouting in the garden."}]},
+{"verb": "anlatmak", "en": "to tell, to explain", "examples": [
+  {"tr": "Bana bir hikâye anlat.", "en": "Tell me a story."},
+  {"tr": "Öğretmen konuyu çok iyi anlattı.", "en": "The teacher explained the topic very well."}]},
+{"verb": "göstermek", "en": "to show", "examples": [
+  {"tr": "Bana yolu gösterir misin?", "en": "Would you show me the way?"},
+  {"tr": "Sana fotoğrafları göstereceğim.", "en": "I will show you the photos."}]},
+{"verb": "saklamak", "en": "to hide (something), to keep", "examples": [
+  {"tr": "Hediyeyi dolaba sakladım.", "en": "I hid the present in the closet."},
+  {"tr": "Benden hiçbir şey saklama.", "en": "Don't hide anything from me."}]},
+{"verb": "kaçmak", "en": "to escape, to run away", "examples": [
+  {"tr": "Kedi kapıdan kaçtı.", "en": "The cat escaped through the door."},
+  {"tr": "Yağmurdan içeri kaçtık.", "en": "We ran inside to escape the rain."}]},
+{"verb": "yakalamak", "en": "to catch", "examples": [
+  {"tr": "Polis hırsızı yakaladı.", "en": "The police caught the thief."},
+  {"tr": "Topu havada yakaladım.", "en": "I caught the ball in the air."}]},
+{"verb": "düşmek", "en": "to fall", "examples": [
+  {"tr": "Dikkat et, düşme!", "en": "Be careful, don't fall!"},
+  {"tr": "Yapraklar sonbaharda düşer.", "en": "Leaves fall in autumn."}]},
+{"verb": "atlamak", "en": "to jump, to skip", "examples": [
+  {"tr": "Çocuk duvardan atladı.", "en": "The child jumped off the wall."},
+  {"tr": "Bu soruyu atlayabilirsin.", "en": "You can skip this question."}]},
+{"verb": "dokunmak", "en": "to touch", "examples": [
+  {"tr": "Tabloya dokunmayın, lütfen.", "en": "Please don't touch the painting."},
+  {"tr": "Bebeğin eline dokundum.", "en": "I touched the baby's hand."}]},
+{"verb": "hissetmek", "en": "to feel", "examples": [
+  {"tr": "Bugün kendimi çok iyi hissediyorum.", "en": "I feel very good today."},
+  {"tr": "Soğuğu hissetmiyor musun?", "en": "Don't you feel the cold?"}]},
+{"verb": "tatmak", "en": "to taste", "examples": [
+  {"tr": "Bu çorbayı tattın mı?", "en": "Have you tasted this soup?"},
+  {"tr": "Yeni yemekler tatmayı severim.", "en": "I like tasting new dishes."}]},
+{"verb": "paylaşmak", "en": "to share", "examples": [
+  {"tr": "Pastayı arkadaşlarımla paylaştım.", "en": "I shared the cake with my friends."},
+  {"tr": "Fotoğrafları benimle paylaşır mısın?", "en": "Will you share the photos with me?"}]},
+{"verb": "karar vermek", "en": "to decide", "examples": [
+  {"tr": "Sonunda karar verdim: İstanbul'a gidiyorum.", "en": "I finally decided: I'm going to Istanbul."},
+  {"tr": "Ne zaman karar vereceksin?", "en": "When will you decide?"}]},
+{"verb": "inanmak", "en": "to believe (with -e/-a)", "examples": [
+  {"tr": "Sana inanıyorum.", "en": "I believe you."},
+  {"tr": "Bu hikâyeye kimse inanmadı.", "en": "Nobody believed this story."}]},
+{"verb": "güvenmek", "en": "to trust (with -e/-a)", "examples": [
+  {"tr": "Arkadaşlarıma güvenirim.", "en": "I trust my friends."},
+  {"tr": "Bana güvenebilirsin.", "en": "You can trust me."}]},
+{"verb": "ummak", "en": "to hope", "examples": [
+  {"tr": "Umarım yarın hava güzel olur.", "en": "I hope the weather is nice tomorrow."},
+  {"tr": "İyi haber almayı umuyoruz.", "en": "We hope to receive good news."}]},
+{"verb": "dilemek", "en": "to wish", "examples": [
+  {"tr": "Sana başarılar dilerim.", "en": "I wish you success."},
+  {"tr": "Doğum gününde bir dilek dile.", "en": "Make a wish on your birthday."}]},
+{"verb": "dans etmek", "en": "to dance", "examples": [
+  {"tr": "Düğünde çok dans ettik.", "en": "We danced a lot at the wedding."},
+  {"tr": "Benimle dans eder misin?", "en": "Will you dance with me?"}]},
+{"verb": "oynamak", "en": "to play", "examples": [
+  {"tr": "Çocuklar bahçede oynuyor.", "en": "The children are playing in the garden."},
+  {"tr": "Hafta sonu futbol oynarız.", "en": "We play football on weekends."}]},
+{"verb": "kaybolmak", "en": "to get lost, to disappear", "examples": [
+  {"tr": "Şehirde kaybolduk.", "en": "We got lost in the city."},
+  {"tr": "Telefonum kayboldu.", "en": "My phone got lost."}]},
+{"verb": "dinlenmek", "en": "to rest", "examples": [
+  {"tr": "Biraz dinlenmek istiyorum.", "en": "I want to rest a little."},
+  {"tr": "Hafta sonu evde dinlendik.", "en": "We rested at home over the weekend."}]},
+{"verb": "yorulmak", "en": "to get tired", "examples": [
+  {"tr": "Bugün çok yoruldum.", "en": "I got very tired today."},
+  {"tr": "Koşunca çabuk yoruluyorum.", "en": "I get tired quickly when I run."}]},
+{"verb": "hastalanmak", "en": "to get sick", "examples": [
+  {"tr": "Kışın sık hastalanırım.", "en": "I often get sick in winter."},
+  {"tr": "Kardeşim dün hastalandı.", "en": "My sibling got sick yesterday."}]},
+{"verb": "iyileşmek", "en": "to get better, to recover", "examples": [
+  {"tr": "Geçmiş olsun, çabuk iyileş!", "en": "Get well soon!"},
+  {"tr": "Dedem hızla iyileşiyor.", "en": "My grandfather is recovering quickly."}]},
+{"verb": "ağrımak", "en": "to ache, to hurt", "examples": [
+  {"tr": "Başım ağrıyor.", "en": "My head aches. (I have a headache.)"},
+  {"tr": "Dün dişim çok ağrıdı.", "en": "My tooth ached a lot yesterday."}]},
+{"verb": "üşümek", "en": "to feel cold", "examples": [
+  {"tr": "Çok üşüyorum, pencereyi kapat.", "en": "I'm very cold; close the window."},
+  {"tr": "Ellerim çabuk üşür.", "en": "My hands get cold quickly."}]},
+{"verb": "beslemek", "en": "to feed", "examples": [
+  {"tr": "Her sabah kediyi besliyorum.", "en": "I feed the cat every morning."},
+  {"tr": "Kuşları parkta besledik.", "en": "We fed the birds in the park."}]},
+{"verb": "toplamak", "en": "to collect, to gather, to tidy up", "examples": [
+  {"tr": "Odanı topla, lütfen.", "en": "Tidy up your room, please."},
+  {"tr": "Bahçeden çilek topladık.", "en": "We picked strawberries from the garden."}]},
+{"verb": "saymak", "en": "to count", "examples": [
+  {"tr": "Ona kadar sayabilirim.", "en": "I can count to ten."},
+  {"tr": "Paranı say.", "en": "Count your money."}]},
+{"verb": "ölçmek", "en": "to measure", "examples": [
+  {"tr": "Doktor ateşimi ölçtü.", "en": "The doctor took (measured) my temperature."},
+  {"tr": "Odanın boyunu ölçtük.", "en": "We measured the length of the room."}]},
+{"verb": "hesaplamak", "en": "to calculate", "examples": [
+  {"tr": "Toplam fiyatı hesapladım.", "en": "I calculated the total price."},
+  {"tr": "Yol süresini hesaplıyorum.", "en": "I am calculating the travel time."}]},
+{"verb": "planlamak", "en": "to plan", "examples": [
+  {"tr": "Yaz tatilini planlıyoruz.", "en": "We are planning the summer vacation."},
+  {"tr": "Düğünü birlikte planladılar.", "en": "They planned the wedding together."}]},
+{"verb": "hazırlamak", "en": "to prepare (something)", "examples": [
+  {"tr": "Annem kahvaltı hazırlıyor.", "en": "My mother is preparing breakfast."},
+  {"tr": "Sunumu yarın için hazırladım.", "en": "I prepared the presentation for tomorrow."}]},
+{"verb": "hazırlanmak", "en": "to get ready", "examples": [
+  {"tr": "Okul için hazırlanıyorum.", "en": "I am getting ready for school."},
+  {"tr": "Parti için hazırlandık.", "en": "We got ready for the party."}]},
+{"verb": "bitmek", "en": "to end, to be finished", "examples": [
+  {"tr": "Film saat onda bitti.", "en": "The movie ended at ten o'clock."},
+  {"tr": "Sütümüz bitti.", "en": "We ran out of milk."}]},
+{"verb": "devam etmek", "en": "to continue", "examples": [
+  {"tr": "Derse devam edelim.", "en": "Let's continue the lesson."},
+  {"tr": "Yağmur bütün gün devam etti.", "en": "The rain continued all day."}]},
+{"verb": "tekrarlamak", "en": "to repeat, to review", "examples": [
+  {"tr": "Lütfen tekrarlar mısınız?", "en": "Would you please repeat that?"},
+  {"tr": "Yeni kelimeleri her gün tekrarlıyorum.", "en": "I review the new words every day."}]},
+{"verb": "çevirmek", "en": "to translate, to turn (something)", "examples": [
+  {"tr": "Bu cümleyi İngilizceye çevirdim.", "en": "I translated this sentence into English."},
+  {"tr": "Sayfayı çevir.", "en": "Turn the page."}]},
+{"verb": "kaydetmek", "en": "to save, to record", "examples": [
+  {"tr": "Numaramı telefonuna kaydet.", "en": "Save my number on your phone."},
+  {"tr": "Dosyayı bilgisayara kaydettim.", "en": "I saved the file to the computer."}]},
+{"verb": "silmek", "en": "to delete, to wipe", "examples": [
+  {"tr": "Tahtayı sildim.", "en": "I wiped the board."},
+  {"tr": "Bu fotoğrafı silme!", "en": "Don't delete this photo!"}]},
+{"verb": "eklemek", "en": "to add", "examples": [
+  {"tr": "Çorbaya biraz tuz ekledim.", "en": "I added a little salt to the soup."},
+  {"tr": "Beni arkadaş olarak ekler misin?", "en": "Will you add me as a friend?"}]},
+{"verb": "indirmek", "en": "to download, to lower, to take down", "examples": [
+  {"tr": "Yeni bir uygulama indirdim.", "en": "I downloaded a new app."},
+  {"tr": "Fiyatı biraz indirir misiniz?", "en": "Would you lower the price a bit?"}]},
+{"verb": "yüklemek", "en": "to upload, to load", "examples": [
+  {"tr": "Fotoğrafları buluta yükledim.", "en": "I uploaded the photos to the cloud."},
+  {"tr": "Bavulları arabaya yükledik.", "en": "We loaded the suitcases into the car."}]},
+{"verb": "izlemek", "en": "to watch, to follow", "examples": [
+  {"tr": "Akşamları film izleriz.", "en": "We watch movies in the evenings."},
+  {"tr": "Maçı birlikte izleyelim.", "en": "Let's watch the match together."}]},
+{"verb": "seyretmek", "en": "to watch", "examples": [
+  {"tr": "Denizi seyretmeyi severim.", "en": "I like watching the sea."},
+  {"tr": "Çocuklar çizgi film seyrediyor.", "en": "The children are watching cartoons."}]},
+{"verb": "uğramak", "en": "to stop by, to drop in", "examples": [
+  {"tr": "İşten sonra markete uğrayacağım.", "en": "I will stop by the market after work."},
+  {"tr": "Bize ne zaman uğrarsın?", "en": "When will you drop by our place?"}]},
+{"verb": "davet etmek", "en": "to invite", "examples": [
+  {"tr": "Seni doğum günü partime davet ediyorum.", "en": "I am inviting you to my birthday party."},
+  {"tr": "Bizi yemeğe davet ettiler.", "en": "They invited us to dinner."}]},
+{"verb": "kutlamak", "en": "to celebrate, to congratulate", "examples": [
+  {"tr": "Yeni yılı ailemle kutladım.", "en": "I celebrated the New Year with my family."},
+  {"tr": "Başarını kutlarım!", "en": "Congratulations on your success!"}]}
+]

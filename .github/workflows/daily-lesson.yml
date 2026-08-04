@@ -1,0 +1,27 @@
+name: Daily Turkish Lesson
+
+on:
+  schedule:
+    # Both fire daily; bot.py only sends when it's 21:00 in America/New_York,
+    # so exactly one of these goes through regardless of DST.
+    - cron: "0 1 * * *"   # 21:00 EDT (summer)
+    - cron: "0 2 * * *"   # 21:00 EST (winter)
+  workflow_dispatch: {}    # manual "Run workflow" button for testing
+
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Send lesson
+        run: python bot.py
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          # Manual runs always send, regardless of time of day
+          FORCE_SEND: ${{ github.event_name == 'workflow_dispatch' && '1' || '0' }}
