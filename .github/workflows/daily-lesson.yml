@@ -2,11 +2,31 @@ name: Daily Turkish Lesson
 
 on:
   schedule:
-    # Both fire daily; bot.py only sends when it's 21:00 in America/New_York,
-    # so exactly one of these goes through regardless of DST.
-    - cron: "0 1 * * *"   # 21:00 EDT (summer)
-    - cron: "0 2 * * *"   # 21:00 EST (winter)
-  workflow_dispatch: {}    # manual "Run workflow" button for testing
+    # GitHub starts scheduled runs late very often — an hour or more is
+    # routine — and sometimes drops them. So we fire six times a night.
+    # bot.py sends at most one lesson per local day, so extra runs are free.
+    #
+    #   nominal local time (EDT):  19:00 20:00 21:00 22:00 23:00 00:00
+    #   nominal UTC:               23:00 00:00 01:00 02:00 03:00 04:00
+    #
+    # A punctual run at 01:00 UTC sends. If everything is running ~2h late,
+    # the 23:00 UTC run lands at 21:00 local and sends instead. Runs that
+    # land outside 21:00-23:59 local simply exit.
+    - cron: "0 23 * * *"
+    - cron: "0 0 * * *"
+    - cron: "0 1 * * *"
+    - cron: "0 2 * * *"
+    - cron: "0 3 * * *"
+    - cron: "0 4 * * *"
+  workflow_dispatch: {}    # manual "Run workflow" button
+
+# Never let two runs race on the state file.
+concurrency:
+  group: daily-lesson
+  cancel-in-progress: false
+
+permissions:
+  contents: write          # needed to commit state.json back
 
 jobs:
   send:
@@ -18,10 +38,27 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Send lesson
+      - name: Show send decision
+        run: python bot.py --check
+
+      - name: Send lesson if due
         run: python bot.py
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-          # Manual runs always send, regardless of time of day
+          # Manual runs always send, regardless of time or state
           FORCE_SEND: ${{ github.event_name == 'workflow_dispatch' && '1' || '0' }}
+
+      - name: Record the send
+        run: |
+          if [ -n "$(git status --porcelain state.json)" ]; then
+            git config user.name  "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add state.json
+            git commit -m "Sent lesson $(date -u +%Y-%m-%d)"
+            git pull --rebase --autostash
+            git push
+            echo "State recorded."
+          else
+            echo "Nothing sent this run; state unchanged."
+          fi

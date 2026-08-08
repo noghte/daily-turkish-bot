@@ -37,14 +37,33 @@ That's it. From now on it sends automatically every evening.
 
 ## How the scheduling works
 
-GitHub cron only speaks UTC, and 9 PM Eastern is 01:00 UTC in summer but 02:00 UTC in winter. The workflow therefore fires at both times, and `bot.py` only sends when it's actually 21:00 in `America/New_York` — the other run exits quietly. Note GitHub sometimes delays scheduled runs by a few minutes.
+GitHub cron only speaks UTC, and 9 PM Eastern is 01:00 UTC in summer but 02:00 UTC in winter. GitHub also starts scheduled runs late fairly often, and occasionally drops them entirely.
+
+So the workflow fires **four times a night** (01:00–04:00 UTC) and `bot.py` decides whether to actually send, using two rules:
+
+1. it must be at or after 21:00 local time, and
+2. no lesson may already have been sent for today's local date.
+
+Rule 2 is tracked in `state.json`, which the workflow commits back to the repo after each send. Any one of the four runs can deliver the lesson, and the rest exit quietly — so a late or dropped run costs nothing.
+
+`python test_schedule.py` replays a full year of runs (through both DST switches, with random delays and dropped runs) and asserts exactly one lesson per day.
 
 ## Local preview
 
 ```bash
+python bot.py --check              # explain tonight's send decision
 python bot.py --day 12 --dry-run   # print day 12's lesson
 python test_conjugator.py          # verify the conjugation engine
+python test_schedule.py            # verify the delivery schedule
 ```
+
+## If lessons stop arriving
+
+Check the repo's **Actions** tab first — every nightly run logs its decision via `bot.py --check`, so you can see whether it fired and what it decided.
+
+- **No scheduled runs listed at all** — the schedule isn't registered. Confirm the workflow file is on your **default branch**, and that Actions is enabled under Settings → Actions → General.
+- **Runs listed, but each says "already sent today"** — `state.json` is ahead of the real date; delete it and it will resend tonight.
+- **Nothing for 60+ days** — GitHub auto-disables schedules on repos with no activity. The daily `state.json` commit normally prevents this; re-enable it from the Actions tab.
 
 ## Customizing
 
